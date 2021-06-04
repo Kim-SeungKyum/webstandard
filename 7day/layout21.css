@@ -1,0 +1,10 @@
+@charset "utf-8";
+*{outline: 1px solid red;}
+body{
+  height: 100%; width: 100%;
+  vertical-align:  middle;
+}
+.n{
+  vertical-align: middle;
+  margin: 0 auto;
+}
